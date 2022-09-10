@@ -130,6 +130,6 @@
 
 Для удаления ветки используется команда:
 
-git branch -d <branch_name>
+    git branch -d <branch_name>
 
 Где вместо <branch_name> пишется название удаляемой ветки.
